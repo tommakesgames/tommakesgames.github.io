@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Portfolio</title>
-    <link href="https://tommakesgames.github.io/tommakesgames.github.io/feed.xml" rel="self" />
-    <link href="https://tommakesgames.github.io/tommakesgames.github.io" />
+    <link href="https://tommakesgames.github.io/feed.xml" rel="self" />
+    <link href="https://tommakesgames.github.io" />
     <updated>2026-05-01T17:24:11+01:00</updated>
     <author>
         <name>Tom Cole</name>
     </author>
-    <id>https://tommakesgames.github.io/tommakesgames.github.io</id>
+    <id>https://tommakesgames.github.io</id>
 
     <entry>
         <title>Thinking and Doing</title>
         <author>
             <name>Tom Cole</name>
         </author>
-        <link href="https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing.html"/>
-        <id>https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing.html</id>
+        <link href="https://tommakesgames.github.io/thinking-and-doing.html"/>
+        <id>https://tommakesgames.github.io/thinking-and-doing.html</id>
             <category term="research"/>
             <category term="academic"/>
 
@@ -35,8 +35,8 @@
         <author>
             <name>Tom Cole</name>
         </author>
-        <link href="https://tommakesgames.github.io/tommakesgames.github.io/6th-post.html"/>
-        <id>https://tommakesgames.github.io/tommakesgames.github.io/6th-post.html</id>
+        <link href="https://tommakesgames.github.io/6th-post.html"/>
+        <id>https://tommakesgames.github.io/6th-post.html</id>
             <category term="education"/>
             <category term="academic"/>
 
@@ -57,8 +57,8 @@
         <author>
             <name>Tom Cole</name>
         </author>
-        <link href="https://tommakesgames.github.io/tommakesgames.github.io/5th-post.html"/>
-        <id>https://tommakesgames.github.io/tommakesgames.github.io/5th-post.html</id>
+        <link href="https://tommakesgames.github.io/5th-post.html"/>
+        <id>https://tommakesgames.github.io/5th-post.html</id>
 
         <updated>2026-05-01T15:24:36+01:00</updated>
             <summary type="html">
@@ -77,8 +77,8 @@
         <author>
             <name>Tom Cole</name>
         </author>
-        <link href="https://tommakesgames.github.io/tommakesgames.github.io/4th-post.html"/>
-        <id>https://tommakesgames.github.io/tommakesgames.github.io/4th-post.html</id>
+        <link href="https://tommakesgames.github.io/4th-post.html"/>
+        <id>https://tommakesgames.github.io/4th-post.html</id>
 
         <updated>2026-05-01T15:24:23+01:00</updated>
             <summary type="html">
@@ -97,8 +97,8 @@
         <author>
             <name>Tom Cole</name>
         </author>
-        <link href="https://tommakesgames.github.io/tommakesgames.github.io/3rd-post.html"/>
-        <id>https://tommakesgames.github.io/tommakesgames.github.io/3rd-post.html</id>
+        <link href="https://tommakesgames.github.io/3rd-post.html"/>
+        <id>https://tommakesgames.github.io/3rd-post.html</id>
             <category term="games"/>
             <category term="academic"/>
 
@@ -128,8 +128,8 @@
         <author>
             <name>Tom Cole</name>
         </author>
-        <link href="https://tommakesgames.github.io/tommakesgames.github.io/1st-post.html"/>
-        <id>https://tommakesgames.github.io/tommakesgames.github.io/1st-post.html</id>
+        <link href="https://tommakesgames.github.io/1st-post.html"/>
+        <id>https://tommakesgames.github.io/1st-post.html</id>
             <category term="teaching"/>
             <category term="education"/>
 
