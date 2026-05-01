@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://github.com/tommakesgames/tommakesgames.github.io/sitemap.xml
