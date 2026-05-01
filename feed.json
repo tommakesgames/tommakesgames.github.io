@@ -1,0 +1,102 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Portfolio",
+    "description": "",
+    "home_page_url": "https://tommakesgames.github.io/tommakesgames.github.io",
+    "feed_url": "https://tommakesgames.github.io/tommakesgames.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Tom Cole"
+    },
+    "items": [
+        {
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing.html",
+            "title": "Thinking and Doing",
+            "content_html": "\n  <p>\n    \n  </p>",
+            "author": {
+                "name": "Tom Cole"
+            },
+            "tags": [
+                   "research",
+                   "academic"
+            ],
+            "date_published": "2026-05-01T16:58:26+01:00",
+            "date_modified": "2026-05-01T16:58:26+01:00"
+        },
+        {
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/6th-post.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/6th-post.html",
+            "title": "6th post",
+            "summary": "Still need it.",
+            "content_html": "<p>Still need it.</p>",
+            "author": {
+                "name": "Tom Cole"
+            },
+            "tags": [
+                   "education",
+                   "academic"
+            ],
+            "date_published": "2026-05-01T15:24:46+01:00",
+            "date_modified": "2026-05-01T15:30:54+01:00"
+        },
+        {
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/5th-post.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/5th-post.html",
+            "title": "5th post",
+            "summary": "There’s more.",
+            "content_html": "<p>There’s more.</p>",
+            "author": {
+                "name": "Tom Cole"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-01T15:24:36+01:00",
+            "date_modified": "2026-05-01T15:24:36+01:00"
+        },
+        {
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/4th-post.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/4th-post.html",
+            "title": "4th post",
+            "summary": "still going.",
+            "content_html": "<p>still going.</p>",
+            "author": {
+                "name": "Tom Cole"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-01T15:24:23+01:00",
+            "date_modified": "2026-05-01T15:24:23+01:00"
+        },
+        {
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/3rd-post.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/3rd-post.html",
+            "title": "3rd post",
+            "summary": "I’m still here baby This is still annoying. This is still getting&hellip;",
+            "content_html": "<ol>\n<li>I’m still here baby</li>\n<li>This is still annoying.</li>\n<li>This is still getting on my nerves.</li>\n</ol>\n<ul>\n<li>academic</li>\n<li>games.</li>\n</ul>\n",
+            "author": {
+                "name": "Tom Cole"
+            },
+            "tags": [
+                   "games",
+                   "academic"
+            ],
+            "date_published": "2026-05-01T15:04:26+01:00",
+            "date_modified": "2026-05-01T15:17:36+01:00"
+        },
+        {
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/1st-post.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/1st-post.html",
+            "title": "Teaching",
+            "author": {
+                "name": "Tom Cole"
+            },
+            "tags": [
+                   "teaching",
+                   "education"
+            ],
+            "date_published": "2026-05-01T15:02:52+01:00",
+            "date_modified": "2026-05-01T17:24:11+01:00"
+        }
+    ]
+}
