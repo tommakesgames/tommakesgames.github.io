@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing.html",
-            "url": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing.html",
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing/index.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing/index.html",
             "title": "Thinking and Doing",
             "content_html": "\n  <p>\n    \n  </p>",
             "author": {
@@ -25,8 +25,8 @@
             "date_modified": "2026-05-01T16:58:26+01:00"
         },
         {
-            "id": "https://tommakesgames.github.io/tommakesgames.github.io/6th-post.html",
-            "url": "https://tommakesgames.github.io/tommakesgames.github.io/6th-post.html",
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/6th-post/index.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/6th-post/index.html",
             "title": "6th post",
             "summary": "Still need it.",
             "content_html": "<p>Still need it.</p>",
@@ -41,8 +41,8 @@
             "date_modified": "2026-05-01T15:30:54+01:00"
         },
         {
-            "id": "https://tommakesgames.github.io/tommakesgames.github.io/5th-post.html",
-            "url": "https://tommakesgames.github.io/tommakesgames.github.io/5th-post.html",
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/5th-post/index.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/5th-post/index.html",
             "title": "5th post",
             "summary": "There’s more.",
             "content_html": "<p>There’s more.</p>",
@@ -55,8 +55,8 @@
             "date_modified": "2026-05-01T15:24:36+01:00"
         },
         {
-            "id": "https://tommakesgames.github.io/tommakesgames.github.io/4th-post.html",
-            "url": "https://tommakesgames.github.io/tommakesgames.github.io/4th-post.html",
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/4th-post/index.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/4th-post/index.html",
             "title": "4th post",
             "summary": "still going.",
             "content_html": "<p>still going.</p>",
@@ -69,8 +69,8 @@
             "date_modified": "2026-05-01T15:24:23+01:00"
         },
         {
-            "id": "https://tommakesgames.github.io/tommakesgames.github.io/3rd-post.html",
-            "url": "https://tommakesgames.github.io/tommakesgames.github.io/3rd-post.html",
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/3rd-post/index.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/3rd-post/index.html",
             "title": "3rd post",
             "summary": "I’m still here baby This is still annoying. This is still getting&hellip;",
             "content_html": "<ol>\n<li>I’m still here baby</li>\n<li>This is still annoying.</li>\n<li>This is still getting on my nerves.</li>\n</ol>\n<ul>\n<li>academic</li>\n<li>games.</li>\n</ul>\n",
@@ -85,8 +85,8 @@
             "date_modified": "2026-05-01T15:17:36+01:00"
         },
         {
-            "id": "https://tommakesgames.github.io/tommakesgames.github.io/1st-post.html",
-            "url": "https://tommakesgames.github.io/tommakesgames.github.io/1st-post.html",
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/1st-post/index.html",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/1st-post/index.html",
             "title": "Teaching",
             "author": {
                 "name": "Tom Cole"
