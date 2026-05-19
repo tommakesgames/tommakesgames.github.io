@@ -3,12 +3,35 @@
     <title>Portfolio</title>
     <link href="https://tommakesgames.github.io/tommakesgames.github.io/feed.xml" rel="self" />
     <link href="https://tommakesgames.github.io/tommakesgames.github.io" />
-    <updated>2026-05-01T17:24:11+01:00</updated>
+    <updated>2026-05-19T18:53:10+01:00</updated>
     <author>
         <name>Tom Cole</name>
     </author>
     <id>https://tommakesgames.github.io/tommakesgames.github.io</id>
 
+    <entry>
+        <title>Testing</title>
+        <author>
+            <name>Tom Cole</name>
+        </author>
+        <link href="https://tommakesgames.github.io/tommakesgames.github.io/testing/"/>
+        <id>https://tommakesgames.github.io/tommakesgames.github.io/testing/</id>
+
+        <updated>2026-05-19T18:53:10+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Another page, just to test what's going on.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    Another page, just to test what's going on.
+  </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Thinking and Doing</title>
         <author>

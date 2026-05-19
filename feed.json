@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://tommakesgames.github.io/tommakesgames.github.io/testing/",
+            "url": "https://tommakesgames.github.io/tommakesgames.github.io/testing/",
+            "title": "Testing",
+            "summary": "Another page, just to test what's going on.",
+            "content_html": "\n  <p>\n    Another page, just to test what's going on.\n  </p>",
+            "author": {
+                "name": "Tom Cole"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-05-19T18:53:10+01:00",
+            "date_modified": "2026-05-19T18:53:10+01:00"
+        },
+        {
             "id": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing/",
             "url": "https://tommakesgames.github.io/tommakesgames.github.io/thinking-and-doing/",
             "title": "Thinking and Doing",
